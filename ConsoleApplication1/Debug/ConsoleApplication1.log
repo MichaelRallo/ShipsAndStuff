@@ -1,0 +1,6 @@
+﻿  gasket.c
+c:\users\mike\documents\gasket.c(106): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 1 has type 'int'
+c:\users\mike\documents\gasket.c(106): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 2 has type 'int'
+c:\users\mike\documents\gasket.c(131): warning C4098: 'main': 'void' function returning a value
+  ConsoleApplication1.vcxproj -> C:\VStudioDocs\Assignment1\Debug\Assignment1B1.exe
+  ConsoleApplication1.vcxproj -> C:\VStudioDocs\Assignment1\Debug\Assignment1B1.pdb (Full PDB)
