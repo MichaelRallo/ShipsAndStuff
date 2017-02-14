@@ -1,4 +1,4 @@
 ﻿  gasket2.c
-c:\users\mike\documents\gasket2.c(109): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+c:\users\mike\documents\gasket2.c(108): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
   ConsoleApplication2.vcxproj -> C:\VStudioDocs\Assignment1\Debug\Assignment1B2.exe
   ConsoleApplication2.vcxproj -> C:\VStudioDocs\Assignment1\Debug\Assignment1B2.pdb (Full PDB)
